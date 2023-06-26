@@ -4,6 +4,7 @@ My name is Leonardo and I am a frontend developer from Brazil.
 I'm currently working at Deal. I mostly code Typescript.
 
 How to reach me:
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoesposito/)
 
 ### ⚡ Tech Stack
