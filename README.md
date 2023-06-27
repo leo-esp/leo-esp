@@ -47,6 +47,7 @@ Technologies I'm using regularly right now
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+[![Leonardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leo-esp)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leo-esp/leo-esp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
