@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Leonardo and I am a frontend developer from Brazil. 
-I'm currently working at Maitha / Serasa Experian. I mostly code Typescript.
+I'm currently working at [Maitha Tech](https://maitha.com.br/) / [Serasa Experian](https://www.serasa.com.br/). I mostly code Typescript.
 
 How to reach me:
 
